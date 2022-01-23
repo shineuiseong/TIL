@@ -1,0 +1,19 @@
+body{
+    background-color: cadetblue;
+}
+
+.gold {
+    color:gold
+}
+
+.green{
+    color:green
+}
+
+.big{
+    font-size: large;
+}
+
+.profileImage{
+    width: 300px;
+}
