@@ -6,7 +6,8 @@
 
 ## 기능구현
 
-\*사용자 등록 및 댓글 등록
+- 사용자 등록 및 댓글 등록
+
 ![image](https://user-images.githubusercontent.com/30334829/152776768-1402f8e3-98ba-410a-a507-dce4a227dc75.png)
 
 <br>
