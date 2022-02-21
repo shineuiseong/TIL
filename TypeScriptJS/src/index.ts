@@ -11,3 +11,4 @@ const sayHi = (name:string,age:number,gender:string):void =>{
 }
 
 export {};
+
